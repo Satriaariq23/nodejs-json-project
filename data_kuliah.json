@@ -1,0 +1,20 @@
+{
+    "student": {
+      "name": "Satria Ariq Adelard Dompas"
+    },
+    "lecturerCode": "ACW",
+    "courses": [
+      {
+        "courseCode": "SE06B",
+        "courseName": "Pemrograman Web"
+      },
+      {
+        "courseCode": "SE06B",
+        "courseName": "Struktur Data"
+      },
+      {
+        "courseCode": "SE06B",
+        "courseName": "Kecerdasan Buatan"
+      }
+    ]
+  }

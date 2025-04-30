@@ -15,6 +15,10 @@
       {
         "courseCode": "SE06B",
         "courseName": "Kecerdasan Buatan"
+      },
+      {
+        "courseCode": "SE06B",
+        "courseName": "Kontruksi Perangkat Lunak"
       }
     ]
   }

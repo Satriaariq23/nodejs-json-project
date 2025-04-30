@@ -1,24 +1,28 @@
 {
-    "student": {
-      "name": "Satria Ariq Adelard Dompas"
+  "student": {
+    "name": "Satria Ariq Adelard Dompas"
+  },
+  "lecturerCode": "ACW",
+  "courses": [
+    {
+      "courseCode": "SE06B",
+      "courseName": "Pemrograman Web"
     },
-    "lecturerCode": "ACW",
-    "courses": [
-      {
-        "courseCode": "SE06B",
-        "courseName": "Pemrograman Web"
-      },
-      {
-        "courseCode": "SE06B",
-        "courseName": "Struktur Data"
-      },
-      {
-        "courseCode": "SE06B",
-        "courseName": "Kecerdasan Buatan"
-      },
-      {
-        "courseCode": "SE06B",
-        "courseName": "Kontruksi Perangkat Lunak"
-      }
-    ]
-  }
+    {
+      "courseCode": "SE06B",
+      "courseName": "Struktur Data"
+    },
+    {
+      "courseCode": "SE06B",
+      "courseName": "Kecerdasan Buatan"
+    },
+    {
+      "courseCode": "SE06B",
+      "courseName": "Kontruksi Perangkat Lunak"
+    },
+    {
+      "courseCode": "SE06B",
+      "courseName": "Tata Tulis Ilmiah"
+    }
+  ]
+}
